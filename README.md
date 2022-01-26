@@ -1,2 +1,2 @@
 # Console-games
-A repository for small games played in a commandconsole
+A repository for small games, made by me, played in a commandconsole.
